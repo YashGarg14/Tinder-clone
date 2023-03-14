@@ -1,1 +1,3 @@
-TinDog Starting Files
+Tinder files including 
+CSS
+Bootstrap
